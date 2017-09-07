@@ -80,6 +80,19 @@ ul {
 	background-color: rgb(101, 53, 43);
 }
 
+a:link {
+color: #e0d0ca;
+text-decoration: none;
+}
+a:visited {
+color: #e0d0ca;
+text-decoration: none;
+}
+a:hover {
+color: #ffeb3b;
+text-decoration: underline;
+}
+
 #piccont {
     padding-bottom: 90px;
     padding-top: 90px;
