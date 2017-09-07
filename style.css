@@ -132,6 +132,10 @@ ul {
     padding-left: 17%;
 }
 
+.sizeicon {
+	height: 70px;
+}
+
 .likebulk {
     color: #651B00;
     text-align: left;
